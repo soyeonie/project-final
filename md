@@ -1,13 +1,23 @@
 # Preproposal
 
-## What idea(s) do you have for your final project?
+## Idea:
 
-TODO
+# From the movie Clueless, Cher Horowitz's Virtual Closet
+# To plan and style outfits with the intent to create an aesthetic and layerability
 
-## If you plan to collaborate with one or two classmates, what are their names?
+## Team:
 
-TODO
+Soyeon Kang (Section 006)
+Lila Zelnick (Section 006)
 
-## Do you have any questions of your own?
+## Questions:
 
-TODO
+# Will creating the styling algorithm be too complex?
+# I was thinking about putting descriptors in each clothing item,
+# But there is so much criteria I could use and combine, like
+# color matching, occassion, and weather (format like PY game, website based)
+
+# For scalability how many items are appropriate for each section,
+# Tops, bottoms, dresses, shoes, outer wear, other items
+
+# Reference file for our wardrobe but make the code applicable to insert your own
