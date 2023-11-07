@@ -2,16 +2,20 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Virtual Closet 
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A website that lets you digitally organize and plan your outfits based on occassion, seasons/weather, style/aesthetics (color matching with palette/tone). (browse people's closets)
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
-
-TODO
-
+Our software will first ask for the user to create a username and password for their closet and then choose if they'd like their closet to be public or private. 
+Then we will have the user choose their body type, if comfortable, otherwise they will be able to use the default body. The user has to upload a folder of their 
+wardrobe into different sections (i.e. pants, dresses, shirts, skirts, cardigans, jackets, etc.,) (if user has a clothing  piece that may not fall into the 
+categories listed, they will be able to create their own category and select where the clothing piece would lay on the body), but we will have broad categories 
+for now. Furthermore, in the folders, we will prompt the user to fill out information through drag and drop categories (i.e. material type, warmth level, user 
+can sort out colors/seasons by themselves, but we will offer possible recommendations if program sees fit). Finally, we will allow user to click through (with 
+arrows/ sprites) to go through the outfit and even plan outfits for the next week in their closet calendar. 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
 TODO, if applicable
